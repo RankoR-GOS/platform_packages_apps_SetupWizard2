@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Мастер настройки</string>
+    <string name="next">Далее</string>
+    <string name="skip">Пропустить</string>
+    <string name="welcome_to_grapheneos">Добро пожаловать в GrapheneOS</string>
+    <string name="grapheneos_icon">Значок GrapheneOS</string>
+    <string name="grapheneos_desc">Конфиденциальность и безопасность для вашего устройства, доступные каждому.</string>
+    <string name="lets_setup_your_device">Настроим ваше устройство за несколько шагов.</string>
+    <string name="lets_setup_your_profile">Настроим ваш профиль пользователя за несколько шагов.</string>
+    <string name="current_language">Русский</string>
+    <string name="accessibility">Специальные возможности</string>
+    <string name="emergency_call">Экстренный вызов</string>
+    <string name="connect_to_wi_fi">Подключение к Wi-Fi</string>
+    <string name="set_up_without_wi_fi">Настроить без Wi-Fi</string>
+    <string name="connect">Подключиться</string>
+    <string name="choose_your_language">Выберите язык</string>
+    <string name="location_services">Геолокация</string>
+    <string name="location_access_title">Использовать геолокацию</string>
+    <string name="location_access_desc">Разрешает приложениям, у которых есть соответствующее разрешение, использовать данные о вашем местоположении. Сюда могут входить текущее местоположение и история перемещений.</string>
+    <string name="network_location_enabled_title">Геолокация по сети</string>
+    <string name="network_location_enabled_desc">Включите геолокацию по сети, чтобы определять местоположение точнее (например, в помещении) и эффективнее. Идентификаторы ближайших беспроводных сигналов будут отправляться на сервер Apple через прокси-сервер GrapheneOS только в моменты использования геолокации по сети.</string>
+    <string name="wifi_scanning_always_available_enabled_title">Поиск сетей Wi-Fi всегда доступен</string>
+    <string name="wifi_scanning_always_available_enabled_desc">Разрешает приложениям и службам с соответствующим разрешением искать сети Wi-Fi даже при выключенном Wi-Fi. Например, при включённой геолокации по сети это позволяет искать сети Wi-Fi даже при выключенном Wi-Fi, повышая точность определения местоположения.</string>
+    <string name="geocoder_enabled_title">Геокодер</string>
+    <string name="geocoder_enabled_desc">Включите геокодер, чтобы приложения могли использовать сетевой сервис, размещённый GrapheneOS, для преобразования географических координат в удобочитаемые адреса и обратно. Некоторым приложениям эта функция необходима для работы основных возможностей.</string>
+    <string name="restore_apps_and_data">Восстановление приложений и данных</string>
+    <string name="data_restore_desc">Если у вас есть резервная копия с предыдущего устройства GrapheneOS, вы можете восстановить её здесь.</string>
+    <string name="you_re_all_set_now">Всё готово!</string>
+    <string name="device_setup_done_desc">Можно начинать пользоваться устройством</string>
+    <string name="profile_setup_done_desc">Можно начинать пользоваться профилем пользователя</string>
+    <string name="set_up_a_secondary_unlock_method">Настройка дополнительного способа разблокировки</string>
+    <string name="set_up_fingerprint_unlock">Настройка разблокировки по отпечатку пальца</string>
+    <string name="optionally_set_up_face_unlock">Дополнительно — настройка разблокировки по лицу</string>
+    <string name="set_up">Настроить</string>
+    <string name="start">Готово</string>
+    <string name="date_and_time">Дата и время</string>
+    <string name="date_and_time_desc">Установите часовой пояс и при необходимости настройте текущую дату и время</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+    <string name="time_zone">Часовой пояс</string>
+    <string name="select_time_zone">Выберите часовой пояс</string>
+    <string name="select_a_network">Выберите сеть</string>
+    <string name="cancel">Отмена</string>
+    <string name="restore">Восстановить</string>
+    <string name="swipe_gestures_title">Управление телефоном с помощью жестов</string>
+    <string name="swipe_gestures_desc">Узнайте, как с помощью жестов перейти на главный экран, вернуться назад и переключаться между приложениями</string>
+    <string name="try_it">Попробовать</string>
+    <string name="oem_unlocked_warning">Загрузчик разблокирован, и целостность программного обеспечения не гарантируется. Любые данные, сохранённые на этом устройстве, могут оказаться доступны злоумышленникам. Не храните на нём конфиденциальные данные.</string>
+    <string name="visit_this_link_on_another_device">Откройте эту ссылку на другом устройстве:</string>
+    <string name="lock_your_bootloader">Заблокируйте загрузчик</string>
+    <string name="oem_unlock_fullscreen_desc">
+        Загрузчик разблокирован, и целостность программного обеспечения
+        не гарантируется. Любые данные, сохранённые на этом устройстве, могут оказаться
+        доступны злоумышленникам. Не храните на нём конфиденциальные данные.\n\nЕсли заблокировать
+        загрузчик позже, все данные на устройстве будут удалены. Чтобы ваши данные были
+        в безопасности, рекомендуем заблокировать загрузчик до начала настройки.\n\nЧтобы заблокировать
+        загрузчик, откройте указанную ниже ссылку на другом устройстве и следуйте инструкциям,
+        затем нажмите \"Перезагрузить в загрузчик\":
+    </string>
+    <string name="reboot_to_bootloader">Перезагрузить в загрузчик</string>
+    <string name="continue_without_locking">Продолжить без блокировки</string>
+    <string name="continue_without_locking_timer">Продолжить без блокировки (%d)</string>
+    <string name="oem_unlock_ack_risks">Я понимаю риски безопасности, связанные с незаблокированным загрузчиком.</string>
+    <string name="disable_oem_unlocking">Отключить заводскую разблокировку</string>
+    <string name="disable_oem_unlocking_desc">Рекомендуется отключить заводскую разблокировку для повышения безопасности устройства</string>
+</resources>

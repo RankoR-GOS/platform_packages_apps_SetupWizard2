@@ -100,7 +100,7 @@
                 android:drawableStart="@drawable/baseline_language"
                 android:drawablePadding="@dimen/button_drawable_padding"
                 android:gravity="center_vertical"
-                android:text="@string/english_united_states"
+                android:text="@string/current_language"
                 android:textColor="?android:attr/textColorPrimary"
                 android:textSize="@dimen/welcome_content_actions_text_size" />
 
